@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Some of my repositories
+[SOAP Tutorial](https://deltastateonline.github.io/soap.tutorial)
+[Logic apps implementation of Email Aggregation](https://deltastateonline.github.io/aggregate-emails-with-logicapps/)
+
 <!--
 **deltastateonline/deltastateonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
