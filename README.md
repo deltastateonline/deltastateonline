@@ -1,7 +1,7 @@
-### MyWarrantyHub
-[MyWarrantyHub](https://www.mywarrantyhub.com)
+### MyWarrantyHub.com
 <p align="center">
- <img src="MyWarrantyHub - solution.jpg" /> 
+  <div>MyWarrantyHub.com</div>
+ <a href="https://www.mywarrantyhub.com"><img src="MyWarrantyHub - solution.jpg" width="500"/></a>
  </p>
 
 ## Tutorials.
