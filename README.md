@@ -1,7 +1,7 @@
 ### MyWarrantyHub.com
 <p align="center">
   <div>MyWarrantyHub.com</div>
- <a href="https://www.mywarrantyhub.com"><img src="MyWarrantyHub - solution.jpg" width="500"/></a>
+  <a href="https://www.mywarrantyhub.com"><img src="MyWarrantyHub - solution.jpg" width="500" align="center"/></a>
  </p>
 
 ## Tutorials.
