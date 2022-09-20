@@ -1,7 +1,7 @@
 ### MyWarrantyHub
 [MyWarrantyHub](https://www.mywarrantyhub.com)
 <p align="center">
- <img src="" /> 
+ <img src="MyWarrantyHub - solution.jpg" /> 
  </p>
 
 ## Tutorials.
