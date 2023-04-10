@@ -5,6 +5,7 @@
 
 ## Tutorials.
 [Working with AWS SNS using Java Sdk V2](https://github.com/deltastateonline/Java-HowTo-SNS)
+
 [SOAP Tutorial](https://deltastateonline.github.io/soap.tutorial)
 
 [Logic Apps Implementation of Email Aggregation](https://deltastateonline.github.io/aggregate-emails-with-logicapps)
